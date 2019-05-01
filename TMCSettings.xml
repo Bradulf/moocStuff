@@ -1,0 +1,895 @@
+<application>
+  <component name="TmcSettings">
+    <option name="settingsTmc">
+      <SettingsTmc>
+        <option name="checkForExercises" value="true" />
+        <option name="firstRun" value="false" />
+        <option name="username" value="bradkharris@gmail.com" />
+        <option name="course">
+          <Course>
+            <option name="cometUrl">
+              <URI />
+            </option>
+            <option name="description" value="2013 Object Oriented Programming with Java.  If you're not finding your old submissions, they're probably on our old server https://tmc.mooc.fi/mooc." />
+            <option name="detailsUrl">
+              <URI />
+            </option>
+            <option name="exercises">
+              <list>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="17cad9f923608a6152db7b7d4cebfa8d" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40325" />
+                  <option name="name" value="week1-000.Sandbox" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="1fdac4cb41b210b800d1aa838ec3a30c" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40326" />
+                  <option name="name" value="week1-001.Name" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="9a9ca8f9bd59ad5cab24f97a27a9a749" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40327" />
+                  <option name="name" value="week1-002.HelloWorld" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="8411f8e4a1f7b64eacb6bb914e637aad" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40328" />
+                  <option name="name" value="week1-003.Spruce" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="0ce003d05483e467ed77f70ebd59f8ad" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40329" />
+                  <option name="name" value="week1-004.ChangingVariables" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="e9d889059e5e440897fb917b0ae97c09" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40330" />
+                  <option name="name" value="week1-005.SecondsOfTheYear" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="43664217906e20c0a5c2998bbeca4092" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40331" />
+                  <option name="name" value="week1-006.Addition" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="cfe1ad03ed1820ef23b44780981a4cbb" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40332" />
+                  <option name="name" value="week1-007.Multiplication" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="c2d122c561c49c28b498f6935dfcaf3f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40333" />
+                  <option name="name" value="week1-008.Adder" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="aa6812dffccd1b345e51e427e7f33da9" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40334" />
+                  <option name="name" value="week1-009.Divider" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="1fdcd6ac2aba32f89556c057680507aa" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40335" />
+                  <option name="name" value="week1-010.CircleCircumference" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="6c484135f525d7f1b195b8a44d2ba6c6" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40336" />
+                  <option name="name" value="week1-011.BiggerNumber" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="0be1b8066def89b4d8323474ad0d178b" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40337" />
+                  <option name="name" value="week1-012.SumOfTheAges" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="33eace142f3723919864e3e583c46c92" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40338" />
+                  <option name="name" value="week1-013.NhlStatisticsPart1" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="986a6ed8a92b22522d1a0af7d78cbd7f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40339" />
+                  <option name="name" value="week1-014.PositiveValue" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="d5b988457741c738c101d5a5cdd9dac9" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40340" />
+                  <option name="name" value="week1-015.AgeOfMajority" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="14f29b7161a65105f890c05e9a6f935b" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40341" />
+                  <option name="name" value="week1-016.EvenOrOdd" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="dfffbe405ef8faab560c0abe5803917d" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40342" />
+                  <option name="name" value="week1-017.GreaterNumber" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="4f889f6d95d76bd2fa74b1c7985e85dc" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40343" />
+                  <option name="name" value="week1-018.GradesAndPoints" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="e638b56b01e6bc6b8687d8747a89fb5a" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40344" />
+                  <option name="name" value="week1-019.AgeCheck" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="b7d8c60488883527e604a413af53f4f1" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40345" />
+                  <option name="name" value="week1-020.Usernames" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="2a5a916cc80906fdec4077e03a39d89f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40346" />
+                  <option name="name" value="week1-021.LeapYear" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="5cb033aa57ce392b02e3d72d0c99f042" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40347" />
+                  <option name="name" value="week1-022.Password" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="ba2d3be0a4a9d697de818e744432a3db" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40348" />
+                  <option name="name" value="week1-023.Temperatures" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="c2d4217f7af71c1a3f2ff328745c8f19" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40349" />
+                  <option name="name" value="week1-024.NhlStatisticsPart2" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="f901e8a6cb182daaac8cd1b24cc597b2" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40350" />
+                  <option name="name" value="week2-025.SumOfThreeNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="22a76980ca6f57521b9196fae2093962" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40351" />
+                  <option name="name" value="week2-026.SumOfManyNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="5b9537c4e40b9a3250c5464fbaa5a5b9" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40352" />
+                  <option name="name" value="week2-027.FromOneToHundred" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="c647275003b4238d93054247b5ad01b8" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40353" />
+                  <option name="name" value="week2-028.FromHundredToOne" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="9e2b3dc2e80c94a49b57bc43dff06782" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40354" />
+                  <option name="name" value="week2-029.EvenNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="a897a68bb154d9315b2624205c531597" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40355" />
+                  <option name="name" value="week2-030.UpToCertainNumber" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
+                  <option name="checksum" value="33af163e3c958883b97503b396be1d20" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40356" />
+                  <option name="name" value="week2-031.LowerLimitAndUpperLimit" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="62ff6006563426c9a28af0350d839955" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40357" />
+                  <option name="name" value="week2-032.TheSumOfSetOfNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="9954a03886ae680fad3ed87e7fa19be2" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40358" />
+                  <option name="name" value="week2-033.TheSumBetweenTwoNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="21b6f086ccf999755d980911b940edc3" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40359" />
+                  <option name="name" value="week2-034.Factorial" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="e57e249849dc1ee44aa0175708765836" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40360" />
+                  <option name="name" value="week2-035.SumOfThePowers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="3a8df53730b594476527fb150f097dbe" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40361" />
+                  <option name="name" value="week2-036.LoopsEndingRemembering" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="effae4878e3d12ffacd2f2d7e3b162ee" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40362" />
+                  <option name="name" value="week2-037.PrintingOutText" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="8fe8da1513df7f2ccef457106f507061" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40363" />
+                  <option name="name" value="week2-038.ManyPrints" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="51ad86777ac83bae004903738edea0c9" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40364" />
+                  <option name="name" value="week2-039.Printing" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="6a128a54ef1155866b490890acfc95d9" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40365" />
+                  <option name="name" value="week2-040.PrintingLikeboss" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="5a1f9eb724780f0bad5da3b85cb4c083" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40366" />
+                  <option name="name" value="week2-041.GuessingNumberGame" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="2b1b8c1bd091f481436be753688870be" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="40367" />
+                  <option name="name" value="week2-042.Hangman" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+              </list>
+            </option>
+            <option name="exercisesLoaded" value="true" />
+            <option name="id" value="277" />
+            <option name="name" value="mooc-2013-OOProgrammingWithJava-PART1" />
+            <option name="reviewsUrl">
+              <URI />
+            </option>
+            <option name="spywareUrls">
+              <list>
+                <URI />
+              </list>
+            </option>
+            <option name="title" value="2013 Object-oriented programming, part 1" />
+            <option name="unlockUrl">
+              <URI />
+            </option>
+          </Course>
+        </option>
+        <option name="organization">
+          <Organization>
+            <option name="information" value="University of Helsinki's Massive Open Online Courses. All new courses from mooc.fi live here." />
+            <option name="logoPath" value="/system/organizations/logos/000/000/021/original/mooc-logo.png?1513356394" />
+            <option name="name" value="MOOC" />
+            <option name="pinned" value="true" />
+            <option name="slug" value="mooc" />
+          </Organization>
+        </option>
+        <option name="token" value="878cda6814b5106302d90c4d798fbf2c748b431363b1c1f059d02414e8cc4d9b" />
+        <option name="oauthCredentials">
+          <OauthCredentials>
+            <option name="oauthApplicationId" value="d4f9a574a4f6f2803359ba1f9047e46680d9c9e305c3f1736b124a3d64e48e80" />
+            <option name="oauthSecret" value="5672ded3fb10909faf78752164f1b03477e5f253aaab2ceea45c14fa34ef8353" />
+          </OauthCredentials>
+        </option>
+      </SettingsTmc>
+    </option>
+  </component>
+</application>
