@@ -239,6 +239,7 @@
                     <option name="allReviewPointsGiven" value="true" />
                     <option name="attempted" value="true" />
                     <option name="checksum" value="62ff6006563426c9a28af0350d839955" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
                     <option name="downloadUrl">
                       <URI />
@@ -451,6 +452,11 @@
                 <list />
               </value>
             </entry>
+            <entry key="Ohjelmoinnin MOOC 2019 -- Aloitan osasta 8, Kesä">
+              <value>
+                <list />
+              </value>
+            </entry>
             <entry key="Ohjelmoinnin MOOC 2019, Kesä">
               <value>
                 <list />
@@ -462,11 +468,6 @@
               </value>
             </entry>
             <entry key="Tietokantojen perusteet, kesä 2019, projekti">
-              <value>
-                <list />
-              </value>
-            </entry>
-            <entry key="Web-palvelinohjelmointi Java, Kevät 2019, Kokeen ohjelmointiosuus (7.6.2019)">
               <value>
                 <list />
               </value>
