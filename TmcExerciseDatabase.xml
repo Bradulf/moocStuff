@@ -28,7 +28,9 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="21b6f086ccf999755d980911b940edc3" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
                     <option name="downloadUrl">
                       <URI />
