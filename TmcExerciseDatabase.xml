@@ -9,7 +9,9 @@
                 <list>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="9954a03886ae680fad3ed87e7fa19be2" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-2013-OOProgrammingWithJava-PART1" />
                     <option name="downloadUrl">
                       <URI />
@@ -206,6 +208,11 @@
               </value>
             </entry>
             <entry key="Ohjelmoinnin MOOC 2019 -- Aloitan osasta 8, Kesä">
+              <value>
+                <list />
+              </value>
+            </entry>
+            <entry key="Ohjelmoinnin MOOC 2019, Kesä">
               <value>
                 <list />
               </value>
