@@ -4,7 +4,7 @@
       <SettingsTmc>
         <option name="checkForExercises" value="true" />
         <option name="firstRun" value="false" />
-        <option name="projectBasePath" value="$USER_HOME$/codebase/TMCProjects" />
+        <option name="projectBasePath" value="$USER_HOME$/mooc/TMCProjects" />
         <option name="username" value="bradkharris@gmail.com" />
         <option name="course">
           <Course>
