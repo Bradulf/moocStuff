@@ -339,8 +339,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="3b4f81e95e4eb17757be48862b12de08" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -357,8 +359,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="a9aaa962c9e4d9308d414b39c49fe8dd" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
