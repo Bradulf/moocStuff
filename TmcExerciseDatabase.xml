@@ -14,6 +14,11 @@
                 <list />
               </value>
             </entry>
+            <entry key="Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin jatkokurssi">
+              <value>
+                <list />
+              </value>
+            </entry>
             <entry key="Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin perusteet">
               <value>
                 <list />
@@ -467,6 +472,7 @@
                     <option name="attempted" value="true" />
                     <option name="checksum" value="2dca1880dde20c4305ddf3a7a87f2e3a" />
                     <option name="codeReviewRequestsEnabled" value="false" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-java-programming-i" />
                     <option name="downloadUrl">
                       <URI />
@@ -754,7 +760,12 @@
                 </list>
               </value>
             </entry>
-            <entry key="Ohjelmoinnin MOOC 2019 -- Aloitan osasta 8 (aikatauluton)">
+            <entry key="Java Programming II">
+              <value>
+                <list />
+              </value>
+            </entry>
+            <entry key="Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi">
               <value>
                 <list />
               </value>
@@ -769,7 +780,12 @@
                 <list />
               </value>
             </entry>
-            <entry key="Web-palvelinohjelmointi Java, Syksy 2019, Kokeen ohjelmointiosuus (28.2.2020)">
+            <entry key="Web-palvelinohjelmointi Java 2020">
+              <value>
+                <list />
+              </value>
+            </entry>
+            <entry key="Web-palvelinohjelmointi Java 2020, projekti">
               <value>
                 <list />
               </value>
