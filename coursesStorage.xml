@@ -1,0 +1,34 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Will be available next." />
+        <option name="humanLanguage" value="English" />
+        <option name="location" value="$USER_HOME$/codebase/Learn Kotlin" />
+        <option name="name" value="Learn Kotlin" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="type" value="PyCharm" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Kotlin Koans are a series of exercises to get you familiar with the Kotlin syntax" />
+        <option name="humanLanguage" value="English" />
+        <option name="location" value="$USER_HOME$/mooc/TMCProjects/mooc-java-programming-i/Kotlin Koans" />
+        <option name="name" value="Kotlin Koans" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="type" value="PyCharm" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Here, at the beginning of your programmer’s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own. Pack up and let’s hit the road, my friend!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/31&lt;/a&gt;" />
+        <option name="humanLanguage" value="English" />
+        <option name="location" value="$USER_HOME$/mooc/TMCProjects/mooc-java-programming-i/Simple Chatty Bot" />
+        <option name="name" value="Simple Chatty Bot" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="type" value="Hyperskill" />
+      </course>
+    </courses>
+  </component>
+</application>
