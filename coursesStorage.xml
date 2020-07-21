@@ -27,6 +27,8 @@
         <option name="name" value="Simple Chatty Bot" />
         <option name="programmingLanguage" value="JAVA" />
         <option name="programmingLanguageVersion" value="11" />
+        <option name="tasksSolved" value="2" />
+        <option name="tasksTotal" value="4" />
         <option name="type" value="Hyperskill" />
       </course>
     </courses>
