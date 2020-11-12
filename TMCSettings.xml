@@ -459,8 +459,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="2dca1880dde20c4305ddf3a7a87f2e3a" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -477,8 +479,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="8f84a3c655baef79b646c07930bbd978" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -495,8 +499,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="095e381b011b3ca07ca1e53bb30cbca9" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -513,8 +519,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="7bffad77c1bed367fc80c3fabf021f2b" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -531,8 +539,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="de4323a595f6914ed5c6011196445767" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -549,8 +559,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="e0d65ee87ee04ccf49601ad20c7f3b13" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -567,8 +579,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="30ebea54baf3fffd3a0f2d58c659e8be" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -585,8 +599,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="a740062f4a903dd0b4b963e959ebf440" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -603,8 +619,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="f258e24ff4575ba11a3a92c8ceaffd33" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -621,8 +639,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="69e8b3ca07f8e0a85775e00f9575b81c" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -639,8 +659,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="9ad49c19b3931986d76908cd536576c2" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -657,8 +679,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="7a0348a3b7ebe19b7ae8be1ce0798673" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -675,8 +699,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="e5bfc89c434cd1293fc0b343cbdcd5a6" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -693,8 +719,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="2624eaf5db3a7cf6b826e324df71967e" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
