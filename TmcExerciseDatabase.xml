@@ -807,6 +807,7 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="62ef8b43898b94088983a472b6f17c9f" />
                     <option name="codeReviewRequestsEnabled" value="false" />
                     <option name="courseName" value="mooc-java-programming-i" />
@@ -1417,22 +1418,17 @@
                 <list />
               </value>
             </entry>
-            <entry key="Web-palvelinohjelmointi Java 2020">
-              <value>
-                <list />
-              </value>
-            </entry>
             <entry key="Web-palvelinohjelmointi Java 2020, kokeen ohjelmointiosuus">
               <value>
                 <list />
               </value>
             </entry>
-            <entry key="Web-palvelinohjelmointi Java 2020, projekti">
+            <entry key="Web-palvelinohjelmointi Java, Syksy 2020">
               <value>
                 <list />
               </value>
             </entry>
-            <entry key="Web-palvelinohjelmointi Java, Syksy 2020">
+            <entry key="Web-palvelinohjelmointi Java, Syksy 2020, projekti">
               <value>
                 <list />
               </value>
