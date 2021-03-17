@@ -895,6 +895,7 @@
                     <option name="attempted" value="true" />
                     <option name="checksum" value="bf09e7e53e07c129c3df7c65859db0f8" />
                     <option name="codeReviewRequestsEnabled" value="false" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-java-programming-i" />
                     <option name="downloadUrl">
                       <URI />
