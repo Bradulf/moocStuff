@@ -952,6 +952,7 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="6fca0be39db123e0ef1512671a41d797" />
                     <option name="codeReviewRequestsEnabled" value="false" />
                     <option name="courseName" value="mooc-java-programming-i" />
