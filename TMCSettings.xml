@@ -957,8 +957,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="464c6c65c873948bbd61eacd688c373c" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -1379,6 +1381,582 @@
                   </option>
                   <option name="id" value="83183" />
                   <option name="name" value="part02-Part02_34.AdvancedAstrology" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="3ff9950e1c7d96bcb46a927978d1e767" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83184" />
+                  <option name="name" value="part03-Part03_01.ThirdElement" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="131c9b914f1ef90725651049e8f3eb8a" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83185" />
+                  <option name="name" value="part03-Part03_02.SecondPlusThird" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="1dcccc864af942591d5d34f56e245377" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83186" />
+                  <option name="name" value="part03-Part03_03.IndexOutOfBoundsException" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="41db717a5de29423a56e31b3c5fbdbcc" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83187" />
+                  <option name="name" value="part03-Part03_04.ListSize" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="97bdff87ee418956b48e6c4ce6e47e73" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83188" />
+                  <option name="name" value="part03-Part03_05.LastInList" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="3ef3d0bb4d32c466b8bb863e4687b464" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83189" />
+                  <option name="name" value="part03-Part03_06.FirstAndLast" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="c36d6acf52265499528537f4950f4483" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83190" />
+                  <option name="name" value="part03-Part03_07.RememberTheseNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="43009e46eea3681175073298b64dabd2" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83191" />
+                  <option name="name" value="part03-Part03_08.OnlyTheseNumbers" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="c3e9c96d04a5aa934604b6f1068fe67b" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83192" />
+                  <option name="name" value="part03-Part03_09.GreatestInList" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="64da91023345b85fceec81d39832d96f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83193" />
+                  <option name="name" value="part03-Part03_10.IndexOf" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="becdf7f93daf7473806abbf95855a53c" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83194" />
+                  <option name="name" value="part03-Part03_11.IndexOfSmallest" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="388fb8ebe8e9bc0aa57eb9bb0c8666e8" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83195" />
+                  <option name="name" value="part03-Part03_12.SumOfAList" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="3a103fc17af7f4f4952b03ce567d47e6" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83196" />
+                  <option name="name" value="part03-Part03_13.AverageOfAList" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="e23dec313af671f0dccf69e3b7dd060f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83197" />
+                  <option name="name" value="part03-Part03_14.OnTheList" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="31ceeef1ac6b18a130727042ebb3f298" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83198" />
+                  <option name="name" value="part03-Part03_15.PrintInRange" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="d32f9436bf37776f86ac390d2a3270b2" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83199" />
+                  <option name="name" value="part03-Part03_16.Sum" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="84306d83f48976fba8fa4d0c20c09f2e" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83200" />
+                  <option name="name" value="part03-Part03_17.RemoveLast" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="6eec176d6e61541fa7e258a90f4c0296" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83201" />
+                  <option name="name" value="part03-Part03_18.Swap" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="d68543f59cd71f4e50d006bd97d7a6f7" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83202" />
+                  <option name="name" value="part03-Part03_19.IndexWasNotFound" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="a2316afccec285297fdedf2a829f9be4" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83203" />
+                  <option name="name" value="part03-Part03_20.SumOfArray" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="33cdcaec1abf86c8e55d9269a26b6f69" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83204" />
+                  <option name="name" value="part03-Part03_21.PrintNeatly" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="1e00dd52efbc6448b99a7bbaa4634075" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83205" />
+                  <option name="name" value="part03-Part03_22.PrintInStars" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="4d8bacf2a73881b4cdc6d6babfb16f1f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83206" />
+                  <option name="name" value="part03-Part03_23.PrintThrice" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="698ce3f668b3f0c39998680dbbc91373" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83207" />
+                  <option name="name" value="part03-Part03_24.IsItTrue" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="6acf56609fd04c10930cfb65406d2b7a" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83208" />
+                  <option name="name" value="part03-Part03_25.Login" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="f579043ccd7a0dc8202ee38c43cf9b98" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83209" />
+                  <option name="name" value="part03-Part03_26.LineByLine" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="c0d37e992e35542ad0f9745bf1b70e11" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83210" />
+                  <option name="name" value="part03-Part03_27.AVClub" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="9f14b4a59bba79d156ec66a2b0012047" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83211" />
+                  <option name="name" value="part03-Part03_28.FirstWords" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="0670e0198ac36403ebdfd9d820cb6701" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83212" />
+                  <option name="name" value="part03-Part03_29.LastWords" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="f2b26809b5fc93b50d839e89fec64d9f" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83213" />
+                  <option name="name" value="part03-Part03_30.AgeOfTheOldest" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="d952c75347d148eced8994e387683def" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83214" />
+                  <option name="name" value="part03-Part03_31.NameOfTheOldest" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="b0f44f6d7a3ca7183c404840871e6519" />
+                  <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="courseName" value="mooc-java-programming-i" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="83215" />
+                  <option name="name" value="part03-Part03_32.PersonalDetails" />
                   <option name="returnUrl">
                     <URI />
                   </option>
