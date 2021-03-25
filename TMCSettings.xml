@@ -1017,8 +1017,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="75b7b06f29784202169bb2bb5f457bd9" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
