@@ -995,6 +995,7 @@
                     <option name="attempted" value="true" />
                     <option name="checksum" value="0abdd28e44c96c73593ed63dddf10549" />
                     <option name="codeReviewRequestsEnabled" value="false" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-java-programming-i" />
                     <option name="downloadUrl">
                       <URI />
@@ -1011,6 +1012,7 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="7140812605391468733790dd476558e8" />
                     <option name="codeReviewRequestsEnabled" value="false" />
                     <option name="courseName" value="mooc-java-programming-i" />
