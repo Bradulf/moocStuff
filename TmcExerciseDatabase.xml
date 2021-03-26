@@ -1072,6 +1072,7 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="9dec8b5c80890aee7cf6ef0af46b3d9f" />
                     <option name="codeReviewRequestsEnabled" value="false" />
                     <option name="courseName" value="mooc-java-programming-i" />
@@ -1459,6 +1460,11 @@
               </value>
             </entry>
             <entry key="Web-palvelinohjelmointi Java 2021">
+              <value>
+                <list />
+              </value>
+            </entry>
+            <entry key="Web-palvelinohjelmointi Java 2021, projekti">
               <value>
                 <list />
               </value>
