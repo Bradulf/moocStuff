@@ -1112,8 +1112,10 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="c62ae66c4ebacbff1a5409ffc5480105" />
                     <option name="codeReviewRequestsEnabled" value="false" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-java-programming-i" />
                     <option name="downloadUrl">
                       <URI />
@@ -1130,8 +1132,10 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="af124d2df2660a4a96be01a91a22f8b9" />
                     <option name="codeReviewRequestsEnabled" value="false" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-java-programming-i" />
                     <option name="downloadUrl">
                       <URI />
@@ -1447,11 +1451,6 @@
                 <list />
               </value>
             </entry>
-            <entry key="Securing Software 2020">
-              <value>
-                <list />
-              </value>
-            </entry>
             <entry key="Securing Software 2021">
               <value>
                 <list />
@@ -1468,6 +1467,11 @@
               </value>
             </entry>
             <entry key="Web-palvelinohjelmointi Java 2021, projekti">
+              <value>
+                <list />
+              </value>
+            </entry>
+            <entry key="Web-palvelinohjelmointi Java, 2021, Kokeen ohjelmointiosuus">
               <value>
                 <list />
               </value>
