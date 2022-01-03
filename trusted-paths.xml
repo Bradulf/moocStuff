@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/codebase" />
+        <option value="$USER_HOME$/mooc/TMCProjects/mooc-java-programming-i" />
       </list>
     </option>
   </component>
