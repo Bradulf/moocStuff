@@ -1280,6 +1280,7 @@
                     <option name="attempted" value="true" />
                     <option name="checksum" value="b54dbfe13d74c5e8d1480d1603c078a0" />
                     <option name="codeReviewRequestsEnabled" value="false" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="mooc-java-programming-i" />
                     <option name="downloadUrl">
                       <URI />
