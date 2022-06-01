@@ -1,0 +1,13 @@
+<application>
+  <component name="JpaPluginApplicationSettings">
+    <option name="jpaToolWindowState" value="ProJpaState" />
+    <option name="notificationShownTimes" value="2" />
+    <option name="openedToolWindows">
+      <set>
+        <option value="com.haulmont.jpb.jpaPalette" />
+        <option value="com.haulmont.jpb.jpaStructure" />
+        <option value="com.haulmont.jpb.jpaInspector" />
+      </set>
+    </option>
+  </component>
+</application>
