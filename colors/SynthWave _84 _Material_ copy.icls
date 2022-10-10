@@ -1,11 +1,11 @@
-<scheme name="_@user_SynthWave '84 (Material)" version="142" parent_scheme="Darcula">
+<scheme name="SynthWave '84 (Material) copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-05-31T18:54:59</property>
+    <property name="created">2022-10-10T11:57:44</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.1.1.0.0</property>
+    <property name="ideVersion">2022.2.1.0.0</property>
     <property name="modified">2022-10-10T11:59:25</property>
-    <property name="originalScheme">SynthWave '84 (Material)</property>
+    <property name="originalScheme">_@user_SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -687,7 +687,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e4f3fa" />
+        <option name="FOREGROUND" value="7ffc01" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
