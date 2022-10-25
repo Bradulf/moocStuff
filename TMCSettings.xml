@@ -1297,8 +1297,10 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="0e3675d2e62b480c5233fd1b633b9a0e" />
                   <option name="codeReviewRequestsEnabled" value="false" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="mooc-java-programming-i" />
                   <option name="downloadUrl">
                     <URI />
@@ -1989,24 +1991,6 @@
                   </option>
                   <option name="id" value="83215" />
                   <option name="name" value="part03-Part03_32.PersonalDetails" />
-                  <option name="returnUrl">
-                    <URI />
-                  </option>
-                  <option name="returnable" value="true" />
-                  <option name="zipUrl">
-                    <URI />
-                  </option>
-                </Exercise>
-                <Exercise>
-                  <option name="allReviewPointsGiven" value="true" />
-                  <option name="checksum" value="a8d7ceba22de8084addb0512ecf0edcd" />
-                  <option name="codeReviewRequestsEnabled" value="false" />
-                  <option name="courseName" value="mooc-java-programming-i" />
-                  <option name="downloadUrl">
-                    <URI />
-                  </option>
-                  <option name="id" value="85612" />
-                  <option name="name" value="part04-Part04_10.Song" />
                   <option name="returnUrl">
                     <URI />
                   </option>
