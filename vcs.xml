@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Bradulf/reactive-spring-webflux.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dilipsundarraj1/reactive-programming-using-reactor" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/codebase" />
